@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tyj:home|Door43 (tyj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tyj|d43-tyj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tyj/archive/master.zip|d43-tyj.zip]]
+
+**Recent Changes**
+{{changes>ns = tyj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tyj|Ethnologue data]]
+
